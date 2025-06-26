@@ -1,0 +1,15 @@
+{
+  "name": "coffee-pos-mock-data",
+  "version": "1.0.0",
+  "description": "Mock data for coffee pos system",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "yarn build"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
