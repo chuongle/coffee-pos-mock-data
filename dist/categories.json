@@ -1,0 +1,24 @@
+{
+    "categories": [
+        {
+            "name": "Espresso Bar",
+            "categoryId": "694978d3-7a89-4e12-a92a-a14384829d35"
+        },
+        {
+            "name": "Cold Brews & Iced",
+            "categoryId": "aa2be3d0-4c46-4519-918b-ca642b1c0eba"
+        },
+        {
+            "name": "Signature Drinks",
+            "categoryId": "86306e6e-c0ba-4ae9-a1b4-cadbf146656d"
+        },
+        {
+            "name": "Non-Coffee",
+            "categoryId": "01eec9f4-0fe0-4e12-beeb-ffed18582061"
+        },
+        {
+            "name": "Pastries & Snacks",
+            "categoryId": "16fcfafc-0a4d-4809-b8bf-8d09da99a316"
+        }
+    ]
+}

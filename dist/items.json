@@ -1,0 +1,142 @@
+{
+    "items": [
+        {
+            "name": "Croissant",
+            "description": "Buttery and flaky, baked fresh daily",
+            "itemId": "d70d4569-1a5d-4a74-add1-ed9d25d77b7c",
+            "categoryId": "16fcfafc-0a4d-4809-b8bf-8d09da99a316"
+        },
+        {
+            "name": "Blueberry Muffin",
+            "description": "Moist muffin with wild blueberries",
+            "itemId": "cd405838-cd5e-42d4-8fd6-888913111e40",
+            "categoryId": "16fcfafc-0a4d-4809-b8bf-8d09da99a316"
+        },
+        {
+            "name": "Banana Bread",
+            "description": "Sweet loaf with ripe bananas & walnuts",
+            "itemId": "8346d7c0-6dbf-4f1c-b2af-285339fa4628",
+            "categoryId": "16fcfafc-0a4d-4809-b8bf-8d09da99a316"
+        },
+        {
+            "name": "Chocolate Chip Cookie",
+            "description": "Soft-baked, classic favorite",
+            "itemId": "50bcbed0-ad80-4b52-b5d3-257044069fcc",
+            "categoryId": "16fcfafc-0a4d-4809-b8bf-8d09da99a316"
+        },
+        {
+            "name": "Avocado Toast",
+            "description": "Sourdough, smashed avocado, chili flakes",
+            "itemId": "b4a2d12e-e85b-4e71-a74a-ef32d7d4901d",
+            "categoryId": "16fcfafc-0a4d-4809-b8bf-8d09da99a316"
+        },
+        {
+            "name": "Hot Chocolate",
+            "description": "Rich cocoa and steamed milk",
+            "itemId": "32956c59-5f5b-422a-b07d-f850f8094da4",
+            "categoryId": "01eec9f4-0fe0-4e12-beeb-ffed18582061"
+        },
+        {
+            "name": "Chai Latte",
+            "description": "Spiced tea with steamed milk",
+            "itemId": "40e4c30c-ca75-4a26-a588-2de0d42497b0",
+            "categoryId": "01eec9f4-0fe0-4e12-beeb-ffed18582061"
+        },
+        {
+            "name": "Matcha Latte",
+            "description": "Japanese green tea & milk",
+            "itemId": "bfda079c-5e3b-4769-8846-c2e689510ef9",
+            "categoryId": "01eec9f4-0fe0-4e12-beeb-ffed18582061"
+        },
+        {
+            "name": "Iced Tea",
+            "description": "Fresh-brewed black or green tea",
+            "itemId": "4599fcf2-f377-4431-b8f1-c564cea3e521",
+            "categoryId": "01eec9f4-0fe0-4e12-beeb-ffed18582061"
+        },
+        {
+            "name": "Vanilla Latte",
+            "description": "House-made vanilla syrup & espresso",
+            "itemId": "ce8064c2-1f64-40bb-af70-d0fef40bbb13",
+            "categoryId": "86306e6e-c0ba-4ae9-a1b4-cadbf146656d"
+        },
+        {
+            "name": "Caramel Macchiato",
+            "description": "Caramel, steamed milk, espresso",
+            "itemId": "f8a05b34-dc39-4bfe-9966-8f89326e54cb",
+            "categoryId": "86306e6e-c0ba-4ae9-a1b4-cadbf146656d"
+        },
+        {
+            "name": "Mocha",
+            "description": "Espresso, chocolate sauce, steamed milk",
+            "itemId": "24cb7f3e-29ee-4ca7-a7ba-4d0526ee9962",
+            "categoryId": "86306e6e-c0ba-4ae9-a1b4-cadbf146656d"
+        },
+        {
+            "name": "Honey Cinnamon Latte",
+            "description": "Honey, cinnamon, espresso, steamed milk",
+            "itemId": "76dfe57b-1085-426e-bb91-eaf3c20af23f",
+            "categoryId": "86306e6e-c0ba-4ae9-a1b4-cadbf146656d"
+        },
+        {
+            "name": "Cold Brew",
+            "description": "12-hour slow steeped coffee",
+            "itemId": "6867391c-97df-4515-b6ea-d4b9e1790120",
+            "categoryId": "aa2be3d0-4c46-4519-918b-ca642b1c0eba"
+        },
+        {
+            "name": "Iced Latte",
+            "description": "Espresso over ice with milk",
+            "itemId": "198ac666-6918-4884-938f-36cc8f3c3599",
+            "categoryId": "aa2be3d0-4c46-4519-918b-ca642b1c0eba"
+        },
+        {
+            "name": "Iced Americano",
+            "description": "Espresso with cold water & ice",
+            "itemId": "787fa299-6083-46f5-8298-0f385746c9ec",
+            "categoryId": "aa2be3d0-4c46-4519-918b-ca642b1c0eba"
+        },
+        {
+            "name": "Nitro Cold Brew",
+            "description": "Cold brew infused with nitrogen",
+            "itemId": "58f7516f-ce8c-4a41-815f-7ea47a3508e9",
+            "categoryId": "aa2be3d0-4c46-4519-918b-ca642b1c0eba"
+        },
+        {
+            "name": "Espresso",
+            "description": "Rich, bold single or double shot",
+            "itemId": "14f150b2-ee27-48a4-829c-2f991dd6178d",
+            "categoryId": "694978d3-7a89-4e12-a92a-a14384829d35"
+        },
+        {
+            "name": "Americano",
+            "description": "Espresso with hot water",
+            "itemId": "53641f28-781f-48ed-b5a3-2a9f01a05e52",
+            "categoryId": "694978d3-7a89-4e12-a92a-a14384829d35"
+        },
+        {
+            "name": "Latte",
+            "description": "Espresso with steamed milk",
+            "itemId": "9abff82a-bb14-4160-a9aa-4801aaefce84",
+            "categoryId": "694978d3-7a89-4e12-a92a-a14384829d35"
+        },
+        {
+            "name": "Cappuccino",
+            "description": "Equal parts espresso, steamed & foamed milk",
+            "itemId": "7fa120cb-06bb-4dfa-aff2-9cd6171f0cad",
+            "categoryId": "694978d3-7a89-4e12-a92a-a14384829d35"
+        },
+        {
+            "name": "Macchiato",
+            "description": "Espresso topped with a dollop of foam",
+            "itemId": "d3a74ddb-7bf0-4ca2-a648-77c7df5cd492",
+            "categoryId": "694978d3-7a89-4e12-a92a-a14384829d35"
+        },
+        {
+            "name": "Flat White",
+            "description": "Smooth ristretto shots with steamed milk",
+            "itemId": "1b1d6d51-8963-4765-8ffd-d7c9ee2a0566",
+            "categoryId": "694978d3-7a89-4e12-a92a-a14384829d35"
+        }
+    ]
+}
